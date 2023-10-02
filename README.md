@@ -11,7 +11,7 @@ Secuencia 6NM61
   * Tipos de Triangulo
   * Area de un Circulo
   * Funciones
-  * Funciones con String Templates
+  * Funciones con Valores Predeterminados
   * Listas
   * Listas Mutables
   * SET/MAP

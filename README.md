@@ -7,7 +7,7 @@ Secuencia 6NM61
   * Variables & DataTypes
   * Operadores
 
-> Programas Vistos Destro de clase
+> Programas Vistos Dentro de Clase
   * Tipos de Triangulo
   * Area de un Circulo
   * Funciones

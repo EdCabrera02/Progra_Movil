@@ -1,7 +1,7 @@
 # Progra_Movil
 Programación Movil/ Kotlin
 Secuencia 6NM61
-
+> Programas 1er Departamental
 > Programas Asignaciones en Teams + PDF
   * HelloWorld!!!
   * Variables & DataTypes
@@ -20,3 +20,8 @@ Secuencia 6NM61
   * While & DoWhile
   * When
   * Area & Volumen
+> Programas 2do Departamental
+  *MarioBros
+  *Vehiculos
+  *Viaje_Nacional
+  *Cupones

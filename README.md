@@ -21,7 +21,7 @@ Secuencia 6NM61
   * When
   * Area & Volumen
 > Programas 2do Departamental
-  *MarioBros
-  *Vehiculos
-  *Viaje_Nacional
-  *Cupones
+  * MarioBros
+  * Vehiculos
+  * Viaje_Nacional
+  * Cupones
